@@ -1,5 +1,5 @@
 # Hi, I'm AikawaNarushika 👋
-[![Mail Badge](https://img.shields.io/badge/-2386905913@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2386905913@qq.com)](mailto:2386905913@qq.com) [![Github Badge](https://img.shields.io/badge/-AikawaNarushikac-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AikawaNarushikac/)](https://www.github.com/AikawaNarushikac/)
+[![Mail Badge](https://img.shields.io/badge/-2386905913@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2386905913@qq.com)](mailto:2386905913@qq.com) [![Github Badge](https://img.shields.io/badge/-AikawaNarushika-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AikawaNarushikac/)](https://www.github.com/AikawaNarushika/)
 
 **Backend Engineer | Java Specialist | Search Enthusiast**
 
