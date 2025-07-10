@@ -1,32 +1,45 @@
-## Hey 👋, This is AikawaNaruhika
+# Hi, I'm AikawaNarushika 👋
+[![Mail Badge](https://img.shields.io/badge/-2386905913@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2386905913@qq.com)](mailto:2386905913@qq.com) [![Github Badge](https://img.shields.io/badge/-AikawaNarushikac-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AikawaNarushikac/)](https://www.github.com/AikawaNarushikac/)
 
-[![Mail Badge](https://img.shields.io/badge/-2386905913@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=2386905913@qq.com)](mailto:2386905913@qq.com) [![Github Badge](https://img.shields.io/badge/-AikawaNarushika-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AikawaNarushika)](https://github.com/AikawaNarushika)
-## Some of my Github Stats
-<p align=left> <img src="https://komarev.com/ghpvc/?username=AikawaNarushika" alt="AikawaNarushika" /> </p>
+**Backend Engineer | Java Specialist | Search Enthusiast**
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AikawaNarushika&show_icons=true&include_all_commits=true)](https://github.com/AikawaNarushika/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikawaNarushika&layout=compact)](https://github.com/AikawaNarushika/github-readme-stats)
+## 🛠️ Technical Arsenal
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AikawaNarushika&repo=AikawaNarushika)
+**Core Stack**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
-Languages and Tools:
+**Data & Infrastructure**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+## 🔍 Current Focus
 
+- Building high-performance search solutions with ElasticSearch
+- Developing microservices architecture with Spring Cloud
+- Optimizing JVM applications for low-latency systems
+- Bridging frontend and backend with Vue.js + SpringBoot
 
-<!--
-**AikawaNarushika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗️ Recent Projects
 
-Here are some ideas to get you started:
+### [Search Infrastructure Upgrade](https://github.com/your/repo)
+- Implemented ElasticSearch index aliasing for zero-downtime reindexing
+- Achieved 300ms → 80ms p99 search latency
+- Designed custom analyzers for CJK text processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [E-commerce Platform](https://github.com/your/repo)
+- Developed SpringBoot services handling 5K RPS
+- Built Vue.js admin dashboard with real-time analytics
+- Implemented Redis caching layer reducing DB load by 40%
+
+## 📊 Engineering Metrics
+
+```text
+System Design    ████████████████░░ 80% 
+API Development  █████████████████░ 90%
+Search Relevance ████████████░░░░░░ 65%
+Performance Tuning ██████████████░░ 75%
