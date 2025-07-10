@@ -2,14 +2,12 @@
 
 [![Mail Badge](https://img.shields.io/badge/-2386905913@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=2386905913@qq.com)](mailto:2386905913@qq.com) [![Github Badge](https://img.shields.io/badge/-AikawaNarushika-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AikawaNarushika)](https://github.com/AikawaNarushika)
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
+<p align=left> <img src="https://komarev.com/ghpvc/?username=AikawaNarushika" alt="AikawaNarushika" /> </p>
 
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
-</a>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=AikawaNarushika&show_icons=true&include_all_commits=true)](https://github.com/AikawaNarushika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikawaNarushika&layout=compact)](https://github.com/AikawaNarushika/github-readme-stats)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AikawaNarushika&repo=AikawaNarushika)
 
 Languages and Tools:
 
@@ -19,7 +17,7 @@ Languages and Tools:
 
 
 <!--
-**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AikawaNarushika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
